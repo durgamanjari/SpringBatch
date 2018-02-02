@@ -1,0 +1,5 @@
+SpringBatch\SpringBatch\App.class
+com\nisum\spring\batch\CustomItemProcessor.class
+com\nisum\spring\batch\ReportFieldSetMapper.class
+com\nisum\spring\batch\Report.class
+com\nisum\spring\batch\AppMain.class
